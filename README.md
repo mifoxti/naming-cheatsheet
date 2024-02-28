@@ -6,7 +6,7 @@
 
 
 # Naming cheatsheet 3
-
+# Первый коммит
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
